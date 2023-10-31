@@ -1,9 +1,0 @@
-# Creating a Data Transformation Pipeline with Cloud Dataprep
-#
-#Objectives:
-#Connect BigQuery datasets to Cloud Dataprep.
-#Explore dataset quality with Cloud Dataprep.
-#Create a data transformation pipeline with Cloud Dataprep.
-#Run transformation jobs outputs to BigQuery.
-
-#Task 1. Open Google Cloud Dataprep
